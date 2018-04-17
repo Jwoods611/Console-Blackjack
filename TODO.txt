@@ -1,0 +1,3 @@
+-Add try/catch blocks
+-Add a UI using Java library
+-Port to Android
